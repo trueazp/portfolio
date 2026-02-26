@@ -1,50 +1,59 @@
-# Akmal Zuhdy Prasetya
-## Data Analyst
+# AKMAL ZUHDY PRASETYA
+## DATA ANALYST
 
-![Profile Picture](assets/img/self_00.jpg)
-
-Data-driven problem solver with strong foundation in data analysis, KPI monitoring, and business-oriented insight generation. Passionate about transforming raw data into actionable decisions.
+![Profile Picture](assets/img/self_00_small.jpg)
 
 ---
 
-## What I Do
-- Analyze structured data to identify trends and performance drivers
-- Develop dashboards to monitor key business metrics
-- Translate analytical findings into actionable recommendations
-- Support data-driven decision making
+## ABOUT
+
+Data-driven problem solver with strong foundation in data analysis, KPI monitoring, and business-oriented insight generation. Experienced in transforming structured datasets into actionable insights to support strategic decision making.
 
 ---
 
-## Core Skills
+## WHAT I DO
 
-**Data Analysis**
-- Exploratory Data Analysis (EDA)
-- Data Cleaning & Preparation
-- Trend & KPI Analysis
-
-**Tools**
-- Python (Pandas, NumPy)
-- SQL
-- Excel & Google Sheets
-- Power BI & Tableau
+- Analyze structured data to identify trends and performance drivers  
+- Develop dashboards to monitor key business metrics  
+- Perform exploratory data analysis (EDA)  
+- Translate analytical findings into actionable recommendations  
 
 ---
 
-## Featured Project
+## CORE SKILLS
 
-### Ethereum Market Trend Analysis
+### Data Analysis
+- Exploratory Data Analysis (EDA)  
+- Data Cleaning & Preparation  
+- Trend & KPI Analysis  
+- Basic Statistical Analysis  
 
-End-to-end analysis of Ethereum historical price data (2014–2024) to identify volatility patterns and generate predictive insights.
+### Tools
+- Python (Pandas, NumPy, Matplotlib)  
+- SQL  
+- Excel & Google Sheets  
+- Power BI & Tableau  
+- Git & GitHub  
+
+---
+
+## FEATURED PROJECT
+
+### Ethereum Market Trend Analysis & Prediction
+
+End-to-end analysis of Ethereum historical price data (2014–2024) to identify long-term volatility patterns and generate predictive insights.
 
 **Key Highlights:**
-- Identified cyclical volatility behavior
-- Built forecasting model using LSTM
-- Developed interactive Streamlit deployment
+- Identified cyclical volatility behavior across market phases  
+- Conducted trend and high-volatility period analysis  
+- Built LSTM-based forecasting model  
+- Deployed interactive visualization using Streamlit  
 
 [View Full Project](#)
 
 ---
 
-## Contact
-- LinkedIn: https://linkedin.com/in/akmalprasetya
-- Email: akmalzuhdyprasetya31@gmail.com
+## CONTACT
+
+- LinkedIn: https://linkedin.com/in/akmalprasetya  
+- Email: akmalzuhdyprasetya31@gmail.com  
