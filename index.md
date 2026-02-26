@@ -1,48 +1,49 @@
-## Data Analyst | Business Intelligence Enthusiast
+## Data Analyst
 
-Computer Science graduate with strong foundation in data analysis, dashboard development, and machine learning. Passionate about transforming raw data into actionable business insights to support data-driven decision making.
-
----
-
-### 🎯 Career Focus
-Aspiring Data Analyst focused on:
-- Business-oriented data analysis
-- KPI monitoring & dashboard development
-- Insight generation & recommendation
+Data-driven problem solver with strong foundation in data analysis, dashboard development, and statistical modeling. Experienced in transforming raw datasets into actionable business insights to support strategic decision making.
 
 ---
 
-### 🛠 Skills & Tools
+### 🎯 What I Do
+- Analyze structured data to identify trends and performance drivers  
+- Build dashboards to monitor key business metrics  
+- Translate analytical findings into actionable recommendations  
+- Support data-driven decision making  
 
-**Programming & Query**
-- Python
+---
+
+### 🛠 Core Skills
+
+**Data Analysis**
+- Exploratory Data Analysis (EDA)
+- Data Cleaning & Preparation
+- Trend & Performance Analysis
+- KPI Analysis
+
+**Tools**
+- Python (Pandas, NumPy, Matplotlib)
 - SQL
+- Excel & Google Sheets
+- Power BI & Tableau
 
-**Data Processing**
-- Excel
-- Google Sheets
-
-**Visualization**
-- Power BI
-- Tableau
-
-**Other Tools**
+**Other**
 - Git & GitHub
-- Streamlit
+- Basic Streamlit Deployment
 
 ---
 
 ### 📊 Featured Project
 
-#### 1. Ethereum Price Analysis & Prediction
-End-to-end analysis of Ethereum historical price data (2014–2024), including data preprocessing, exploratory analysis, modeling, and deployment.
+#### Ethereum Market Trend Analysis & Prediction
 
-**Key Highlights:**
-- Identified long-term volatility patterns
-- Built LSTM-based predictive model
-- Developed interactive Streamlit application
+End-to-end analysis of Ethereum historical price data (2014–2024) to identify long-term volatility patterns and build predictive insights.
 
-[View Project Details](#)
+**Business Relevance:**
+- Identified cyclical volatility patterns
+- Analyzed trend behavior during high-risk periods
+- Built forecasting model to support data-informed decision making
+
+[View Full Project](#)
 
 ---
 
