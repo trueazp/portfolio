@@ -3,15 +3,12 @@
 
 @import "{{ site.theme }}";
 
-/* Hide footer completely */
-footer {
+/* Hide header credits (Project maintained by & Hosted on GitHub Pages) */
+.credits {
   display: none !important;
 }
 
-.site-footer {
-  display: none !important;
-}
-
-footer p {
+/* Optional: remove extra spacing after hiding credits */
+header p {
   display: none !important;
 }
