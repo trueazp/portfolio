@@ -3,12 +3,26 @@
 
 @import "{{ site.theme }}";
 
-/* Hide header credits (Project maintained by & Hosted on GitHub Pages) */
+/* hide credits text */
 .credits {
   display: none !important;
 }
 
-/* Optional: remove extra spacing after hiding credits */
+/* remove extra header spacing */
+header {
+  padding-bottom: 10px !important;
+}
+
 header p {
   display: none !important;
+  margin: 0 !important;
+}
+
+/* tighten spacing between title and content */
+header h1 {
+  margin-bottom: 5px !important;
+}
+
+header h2 {
+  margin-bottom: 10px !important;
 }
