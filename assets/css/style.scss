@@ -1,0 +1,9 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Hide footer */
+.site-footer {
+  display: none !important;
+}
