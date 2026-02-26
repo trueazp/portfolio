@@ -113,7 +113,7 @@ Based on the analysis:
 
 ---
 
-## 10. Deployment Preview Halaman_Utama
+## 10. Deployment Preview
 
 ![Streamlit App Preview](../../assets/img/ethereum/Halaman_Utama.png)
 
