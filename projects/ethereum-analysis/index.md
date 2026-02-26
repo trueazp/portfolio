@@ -44,9 +44,8 @@ These steps ensured clean and structured input for both exploratory analysis and
 
 ## 5. Exploratory Data Analysis (EDA)
 
-### Long-Term Price Trend
-
-![Price Trend](assets/img/ethereum/Ethereum Historical Price Trend Chart - Full.png)
+### Long-Term Price Trend 
+![Price Trend](../../assets/img/ethereum/Ethereum_Historical_Price_Trend_Chart_Full.png)
 
 Key observations:
 
@@ -58,7 +57,7 @@ Key observations:
 
 ### Volatility Analysis
 
-![Volatility Analysis](assets/img/ethereum/Ethereum Trading Volume Chart Full.png)
+![Volatility Analysis](../../assets/img/ethereum/Ethereum_Trading_Volume_Chart_Full.png)
 
 Key observations:
 
@@ -114,9 +113,9 @@ Based on the analysis:
 
 ---
 
-## 10. Deployment Preview
+## 10. Deployment Preview Halaman_Utama
 
-![Streamlit App Preview](assets/img/ethereum/Halaman Utama.png)
+![Streamlit App Preview](../../assets/img/ethereum/Halaman_Utama.png)
 
 The trained model was deployed using Streamlit to provide:
 
