@@ -3,21 +3,27 @@
 
 @import "{{ site.theme }}";
 
-/* hide credits text */
+/* hide credits line */
 .credits {
   display: none !important;
 }
 
-/* remove header spacing */
+/* remove bottom border line */
 #header_wrap {
-  padding-bottom: 10px !important;
+  border-bottom: none !important;
 }
 
+/* reduce header padding */
+#header_wrap {
+  padding: 30px 0 10px 0 !important;
+}
+
+/* remove inner spacing */
 #header_wrap .inner {
-  padding-bottom: 10px !important;
+  padding-bottom: 0 !important;
 }
 
-/* reduce spacing below title */
+/* tighten title spacing */
 #header_wrap h1 {
   margin-bottom: 5px !important;
 }
@@ -26,7 +32,8 @@
   margin-bottom: 0 !important;
 }
 
-/* remove any leftover paragraph spacing */
+/* remove empty paragraph spacing */
 #header_wrap p {
   margin: 0 !important;
+  padding: 0 !important;
 }
