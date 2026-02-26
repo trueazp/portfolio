@@ -1,43 +1,51 @@
-# Akmal Zuhdy Prasetya
-Data Analyst | Business Intelligence Enthusiast
+## Data Analyst | Business Intelligence Enthusiast
 
-![Profile Picture](assets/img/self_00.jpg)
-
----
-
-## 👋 About Me
-Computer Science graduate with a strong foundation in data analysis, statistical modeling, and dashboard development. Passionate about transforming raw data into actionable business insights to support data-driven decision making.
+Computer Science graduate with strong foundation in data analysis, dashboard development, and machine learning. Passionate about transforming raw data into actionable business insights to support data-driven decision making.
 
 ---
 
-## 🎯 Career Objective
-Aspiring Data Analyst focused on delivering business-oriented insights through structured data analysis, visualization, and problem-solving.
+### 🎯 Career Focus
+Aspiring Data Analyst focused on:
+- Business-oriented data analysis
+- KPI monitoring & dashboard development
+- Insight generation & recommendation
 
 ---
 
-## 🛠 Skills & Tools
-**Languages:** Python, SQL  
-**Data Tools:** Excel, Google Sheets  
-**Visualization:** Power BI, Tableau  
-**Other Tools:** Git & GitHub, Streamlit  
+### 🛠 Skills & Tools
+
+**Programming & Query**
+- Python
+- SQL
+
+**Data Processing**
+- Excel
+- Google Sheets
+
+**Visualization**
+- Power BI
+- Tableau
+
+**Other Tools**
+- Git & GitHub
+- Streamlit
 
 ---
 
-## 📊 Featured Project
-### 1. [Project Title Here]
-tbd
+### 📊 Featured Project
 
-**Problem Statement:**  
-tbd
-**Key Insight:**  
-- Insight 1  
-- Insight 2  
-- Insight 3  
+#### 1. Ethereum Price Analysis & Prediction
+End-to-end analysis of Ethereum historical price data (2014–2024), including data preprocessing, exploratory analysis, modeling, and deployment.
 
-[View Full Project](link-to-project-folder)
+**Key Highlights:**
+- Identified long-term volatility patterns
+- Built LSTM-based predictive model
+- Developed interactive Streamlit application
+
+[View Project Details](#)
 
 ---
 
-## 📬 Contact
+### 📬 Contact
 - LinkedIn: https://linkedin.com/in/akmalprasetya
 - Email: akmalzuhdyprasetya31@gmail.com
