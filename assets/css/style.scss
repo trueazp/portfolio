@@ -8,21 +8,25 @@
   display: none !important;
 }
 
-/* remove extra header spacing */
-header {
+/* remove header spacing */
+#header_wrap {
   padding-bottom: 10px !important;
 }
 
-header p {
-  display: none !important;
-  margin: 0 !important;
+#header_wrap .inner {
+  padding-bottom: 10px !important;
 }
 
-/* tighten spacing between title and content */
-header h1 {
+/* reduce spacing below title */
+#header_wrap h1 {
   margin-bottom: 5px !important;
 }
 
-header h2 {
-  margin-bottom: 10px !important;
+#header_wrap h2 {
+  margin-bottom: 0 !important;
+}
+
+/* remove any leftover paragraph spacing */
+#header_wrap p {
+  margin: 0 !important;
 }
