@@ -39,17 +39,11 @@ Data-driven problem solver with strong foundation in data analysis, KPI monitori
 
 ## FEATURED PROJECT
 
-### Ethereum Market Trend Analysis & Prediction
+### Ethereum Market Trend & Volatility Analysis
 
-End-to-end analysis of Ethereum historical price data (2014–2024) to identify long-term volatility patterns and generate predictive insights.
+End-to-end analysis of Ethereum historical price data (2014–2024) to identify long-term volatility patterns and generate data-driven insights.
 
-**Key Highlights:**
-- Identified cyclical volatility behavior across market phases  
-- Conducted trend and high-volatility period analysis  
-- Built LSTM-based forecasting model  
-- Deployed interactive visualization using Streamlit  
-
-[View Full Project](#)
+[View Full Project →](projects/ethereum-analysis/)
 
 ---
 
