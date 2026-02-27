@@ -3,11 +3,6 @@
 
 @import "{{ site.theme }}";
 
-/* hide credits line */
-.credits {
-  display: none !important;
-}
-
 /* remove bottom border line */
 #header_wrap {
   border-bottom: none !important;
