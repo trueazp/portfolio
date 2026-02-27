@@ -4,9 +4,6 @@
 
 <div>
 
-# AKMAL ZUHDY PRASETYA  
-## DATA ANALYST  
-
 Data-driven problem solver with strong foundation in data analysis, KPI monitoring, and business-oriented insight generation. Experienced in transforming structured datasets into actionable insights to support strategic decision making.
 
 </div>
