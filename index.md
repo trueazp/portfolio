@@ -1,13 +1,16 @@
-# AKMAL ZUHDY PRASETYA
-## DATA ANALYST
+<div style="display:flex; align-items:center; gap:30px;">
 
-![Profile Picture](assets/img/self_00_small.jpg)
+<img src="assets/img/self_00_small.jpg" width="160" style="border-radius:16px;" />
 
----
+<div>
 
-## ABOUT
+# AKMAL ZUHDY PRASETYA  
+## DATA ANALYST  
 
 Data-driven problem solver with strong foundation in data analysis, KPI monitoring, and business-oriented insight generation. Experienced in transforming structured datasets into actionable insights to support strategic decision making.
+
+</div>
+</div>
 
 ---
 
