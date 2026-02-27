@@ -2,7 +2,7 @@
 
 <img src="assets/img/self_00_small.jpg" width="170" style="border-radius:16px;" />
 
-<div style="max-width:600px; line-height:1.7; font-size:18px;">
+<div style="max-width:600px; line-height:1.7; font-size:18px; text-align:justify;">
 
 Data-driven problem solver with strong foundation in data analysis, KPI monitoring, and business-oriented insight generation. Experienced in transforming structured datasets into actionable insights to support strategic decision making.
 
