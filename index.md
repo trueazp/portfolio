@@ -35,7 +35,7 @@ Data-driven problem solver with strong foundation in data analysis, KPI monitori
 - Power BI & Tableau  
 - Git & GitHub  
 
----
+--- TheLook_Ecommerce_BI_Analysis
 
 ## FEATURED PROJECT
 
@@ -44,6 +44,14 @@ Data-driven problem solver with strong foundation in data analysis, KPI monitori
 End-to-end analysis of Ethereum historical price data (2014–2024) to identify long-term volatility patterns and generate data-driven insights.
 
 [View Full Project →](projects/ethereum-analysis/)
+
+---
+
+### TheLook Ecommerce Business Intelligence Analysis
+
+Comprehensive ecommerce business intelligence analysis focused on customer acquisition, product profitability, operational scalability, and revenue leakage optimization using interactive dashboarding and strategic business insights.
+
+[View Full Project →](projects/TheLook_Ecommerce_BI_Analysis/)
 
 ---
 
