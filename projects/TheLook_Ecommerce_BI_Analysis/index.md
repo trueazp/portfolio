@@ -86,11 +86,10 @@ The final analytical dataset was optimized for dashboarding and business perform
 
 ---
 
-<!-- INSERT VISUAL: Data Preprocessing Workflow -->
-
 ## 5. Executive Dashboard Overview
 
 <!-- INSERT VISUAL: Executive Ecommerce Dashboard -->
+![Dashboard Executive](../../assets/img/thelook-analysis/dashboard_01_executive.png)
 
 The executive dashboard was developed to monitor:
 
