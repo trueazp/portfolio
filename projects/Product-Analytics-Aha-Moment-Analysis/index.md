@@ -80,8 +80,10 @@ Behavioral signals were converted into binary indicators to evaluate their reten
 ---
 
 <!-- INSERT VISUAL: DAU Decline Trend Chart -->
+![DAU_Decline](../../assets/img/ahamoment-analysis/dau_decline.png)
 
 <!-- INSERT VISUAL: WAU Retention Trend -->
+![WAU Retention](../../assets/img/ahamoment-analysis/wau_retention.png)
 
 ## 5. Exploratory Product Analysis
 
@@ -101,8 +103,7 @@ The product experienced significant early-stage churn behavior, indicating that 
 ---
 
 <!-- INSERT VISUAL: Behavioral Signal Precision Comparison -->
-
-<!-- INSERT VISUAL: Signal Threshold Evaluation Table -->
+![Precision_Comparison](../../assets/img/ahamoment-analysis/precision_comparison.png)
 
 ## 6. Behavioral Signal Analysis
 
@@ -132,8 +133,6 @@ Several behavioral signals were evaluated to identify which metrics most accurat
 4. Habit formation behavior outperformed simple consumption metrics.
 
 ---
-
-<!-- INSERT VISUAL: Aha Moment Behavioral Flow -->
 
 ## 7. Aha Moment Identification
 
@@ -200,9 +199,5 @@ The findings highlight the importance of identifying actionable behavioral miles
 
 ## Tools Used
 
-- Python
-- Pandas
-- NumPy
 - Excel / Spreadsheet Analysis
-- Jupyter Notebook
 - Git & GitHub
