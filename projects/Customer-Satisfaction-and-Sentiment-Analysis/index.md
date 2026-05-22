@@ -89,15 +89,16 @@ Data preprocessing steps included:
 <!-- INSERT VISUAL: Dataset Structure Overview -->
 ![Dataset Structure](../../assets/img/satisfaction-sentiment-analysis/dataset_structure.png)
 
-<!-- INSERT VISUAL: Data Quality Assessment -->
-
 ## 5. Customer Satisfaction Analysis
 
 <!-- INSERT VISUAL: CSAT Formula & Method -->
+![CSAT](../../assets/img/satisfaction-sentiment-analysis/csat.png)
 
 <!-- INSERT VISUAL: NPS Formula & Method -->
+![NPS](../../assets/img/satisfaction-sentiment-analysis/nps.png)
 
 <!-- INSERT VISUAL: CES Formula & Method -->
+![CES](../../assets/img/satisfaction-sentiment-analysis/ces.png)
 
 The analysis evaluated customer experience using:
 
@@ -119,10 +120,10 @@ Although customers expressed high satisfaction levels, loyalty and advocacy pote
 ---
 
 <!-- INSERT VISUAL: Text Preprocessing Workflow -->
+![Text Preprocessing](../../assets/img/satisfaction-sentiment-analysis/text_preprocessing.png)
 
 <!-- INSERT VISUAL: Sentiment Scoring Process -->
-
-<!-- INSERT VISUAL: Sentiment Distribution Chart -->
+![Sentiment Scoring](../../assets/img/satisfaction-sentiment-analysis/sentiment_scoring.png)
 
 ## 6. Sentiment Analysis
 
@@ -157,8 +158,6 @@ Positive customer perception indicates strong overall product acceptance. Howeve
 
 ---
 
-<!-- INSERT VISUAL: Rating vs Sentiment Validation Table -->
-
 ## 7. Validation Analysis
 
 The analysis compared textual sentiment results against numerical customer ratings.
@@ -176,6 +175,7 @@ Numerical ratings alone may not fully capture customer perception. Combining sen
 ---
 
 <!-- INSERT VISUAL: Final Dashboard Overview -->
+![Dashboard](../../assets/img/satisfaction-sentiment-analysis/dashboard.png)
 
 ## 8. Dashboard Insights
 
