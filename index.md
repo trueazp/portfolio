@@ -71,6 +71,14 @@ Customer analytics project focused on customer segmentation, retention strategy,
 
 ---
 
+### Customer Satisfaction & Sentiment Analysis
+
+Customer analytics and NLP project focused on measuring customer satisfaction, loyalty potential, and hidden dissatisfaction patterns using CSAT, NPS, CES, and sentiment analysis.
+
+[View Full Project →](projects/Customer-Satisfaction-and-Sentiment-Analysis/)
+
+---
+
 ## CONTACT
 
 - LinkedIn: https://linkedin.com/in/akmalprasetya  
