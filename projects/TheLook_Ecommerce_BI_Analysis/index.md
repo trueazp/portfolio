@@ -114,6 +114,7 @@ Main KPI highlights:
 ## 6. Customer Acquisition & Behavior Analysis
 
 <!-- INSERT VISUAL: Customer Acquisition Dashboard -->
+![Dashboard_Acquisition](../../assets/img/thelook-analysis/dashboard_02_customer_acquisition.png)
 
 The analysis evaluated:
 
@@ -138,6 +139,7 @@ Customer engagement growth indicates strong platform expansion momentum. However
 ## 7. Product & Revenue Performance Analysis
 
 <!-- INSERT VISUAL: Revenue & Product Performance Dashboard -->
+![Dashboard Revenue](../../assets/img/thelook-analysis/dashboard_03_revenue.png)
 
 The analysis focused on:
 
@@ -161,6 +163,7 @@ TheLook demonstrated strong revenue growth driven primarily by dominant categori
 ## 8. Fulfillment & Operational Analysis
 
 <!-- INSERT VISUAL: Operational & Fulfillment Dashboard -->
+![Dashboard Operational](../../assets/img/thelook-analysis/dashboard_04_operational.png)
 
 The analysis evaluated:
 
@@ -184,6 +187,7 @@ Operational processes demonstrated scalable performance capabilities. The busine
 ## 9. Return Rate & Revenue Leakage Analysis
 
 <!-- INSERT VISUAL: Return Rate & Revenue Leakage Dashboard -->
+![Dashboard Operational](../../assets/img/thelook-analysis/dashboard_04_operational.png)
 
 The analysis focused on:
 
