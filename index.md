@@ -79,6 +79,14 @@ Customer analytics and NLP project focused on measuring customer satisfaction, l
 
 ---
 
+### Airline Passenger Satisfaction Analysis
+
+Customer analytics and business intelligence project focused on identifying key satisfaction drivers, segment-based service differences, and operational factors affecting passenger experience within the airline industry.
+
+[View Full Project →](projects/Airline-Passenger-Satisfaction-Analysis/)
+
+---
+
 ## CONTACT
 
 - LinkedIn: https://linkedin.com/in/akmalprasetya  
