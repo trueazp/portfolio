@@ -63,6 +63,14 @@ Behavioral product analytics project focused on identifying retention-driving us
 
 ---
 
+### Customer Lifetime Value (CLV) & RFM Analysis
+
+Customer analytics project focused on customer segmentation, retention strategy, and revenue optimization using RFM analysis and Customer Lifetime Value (CLV) modeling.
+
+[View Full Project →](projects/CLV-and-RFM-Analysis/)
+
+---
+
 ## CONTACT
 
 - LinkedIn: https://linkedin.com/in/akmalprasetya  
