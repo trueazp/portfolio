@@ -2,13 +2,17 @@
 
 ### Data Analyst | Business Intelligence | Customer & Product Analytics
 
+Exploring how data can explain customer behavior, business performance, and operational patterns through analytics, dashboarding, and business-oriented analysis.
+
 <div style="display:flex; align-items:center; gap:40px; margin:40px 0 50px 0;">
 
-<img src="assets/img/self_00_small.jpg" width="170" style="border-radius:16px;" />
+<img src="assets/img/self_00_small.jpg" width="180" style="border-radius:18px;" />
 
-<div style="max-width:600px; line-height:1.7; font-size:18px; text-align:justify;">
+<div style="max-width:650px; line-height:1.8; font-size:17px; text-align:justify;">
 
-Data-driven problem solver with strong foundation in business intelligence, customer analytics, and dashboard-driven decision making. Experienced in transforming structured datasets into actionable insights to support business growth, operational efficiency, and strategic planning.
+I mostly work on projects related to customer analytics, business intelligence, and behavioral analysis. I enjoy exploring how data can explain customer behavior, operational performance, and business patterns, then translating those findings into practical business insights and recommendations.
+
+Most of my projects involve exploratory analysis, dashboarding, customer segmentation, retention analysis, and business performance evaluation using Python, SQL, and BI tools.
 
 </div>
 </div>
@@ -19,42 +23,66 @@ Data-driven problem solver with strong foundation in business intelligence, cust
 
 ---
 
-## WHAT I DO
+# ANALYTICAL FOCUS
 
-- Build business intelligence dashboards for KPI monitoring and decision support  
-- Analyze customer and product behavior to identify growth opportunities  
-- Perform exploratory and statistical analysis to uncover actionable insights  
-- Develop data-driven recommendations for business, operational, and retention strategy  
-- Translate complex datasets into clear analytical storytelling  
+- Business Intelligence  
+- Customer Analytics  
+- Product Analytics  
+- Retention & Segmentation Analysis  
+- KPI Monitoring & Dashboarding  
+- Data-driven Decision Support  
 
 ---
 
-## CORE SKILLS
+# WHAT I WORK ON
 
-### Analytics
+### Customer & Behavioral Analytics
+- Customer segmentation & retention analysis  
+- Customer satisfaction & sentiment analysis  
+- Product engagement & behavioral pattern analysis  
+- Customer value & purchasing behavior analysis  
+
+### Business Intelligence & Monitoring
+- KPI dashboard development  
+- Revenue & operational performance analysis  
+- Business trend monitoring  
+- Dashboard-driven insight generation  
+
+### Analytical Workflow
 - Exploratory Data Analysis (EDA)  
-- Customer Analytics  
-- Product Analytics  
-- KPI & Trend Analysis  
-- Retention & Segmentation Analysis  
-- Basic Statistical Analysis  
+- Data cleaning & preprocessing  
+- Feature engineering & aggregation  
+- Business insight & recommendation development  
 
-### Business Intelligence
-- Dashboard Development  
-- Business Performance Monitoring  
-- Data Visualization  
-- Insight Communication  
+---
 
-### Technical Tools
-- Python (Pandas, NumPy, Matplotlib)  
+# TECH STACK
+
+### Programming & Query Languages
+- Python  
 - SQL  
-- Power BI & Tableau  
+
+### Data & Visualization Tools
+- Power BI  
+- Tableau  
 - Excel & Google Sheets  
+
+### Python Libraries
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+- TextBlob  
+- TensorFlow / Keras  
+
+### Workflow & Version Control
+- Jupyter Notebook  
+- Google Colaboratory  
 - Git & GitHub  
 
 ---
 
-# FEATURED PROJECTS
+# FEATURED CASE STUDIES
 
 ### TheLook Ecommerce Business Intelligence Analysis
 
@@ -96,17 +124,17 @@ Customer analytics and NLP project focused on measuring customer satisfaction, l
 
 ---
 
-## TECHNICAL DIFFERENTIATOR
+# TECHNICAL DIFFERENTIATOR
 
 ### Ethereum Market Trend & Volatility Analysis
 
-End-to-end analysis of Ethereum historical price data (2014–2024) to identify long-term volatility patterns and generate data-driven insights.
+End-to-end analysis of Ethereum historical price data (2014–2024) to identify long-term volatility patterns and generate data-driven insights using time-series analysis and LSTM forecasting.
 
 [View Full Project →](projects/ethereum-analysis/)
 
 ---
 
-## CONTACT
+# CONTACT
 
 - LinkedIn → https://linkedin.com/in/akmalprasetya  
 - Email → akmalzuhdyprasetya31@gmail.com  
