@@ -120,6 +120,6 @@ End-to-end analysis of Ethereum historical price data (2014–2024) to identify 
 
 # CONTACT
 
-- LinkedIn → [https://linkedin.com/in/akmalprasetya]  
- Email → [akmalzuhdyprasetya31@gmail.com]  
-- GitHub → [https://github.com/trueazp/]
+- [LinkedIn →](https://linkedin.com/in/akmalprasetya)  
+- [Email →](akmalzuhdyprasetya31@gmail.com)  
+- [GitHub →](https://github.com/trueazp/)
