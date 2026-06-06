@@ -92,22 +92,6 @@ Comprehensive ecommerce business intelligence analysis focused on customer acqui
 
 ---
 
-### Airline Passenger Satisfaction Analysis
-
-Customer analytics and business intelligence project focused on identifying key satisfaction drivers, segment-based service differences, and operational factors affecting passenger experience within the airline industry.
-
-[View Full Project →](projects/Airline-Passenger-Satisfaction-Analysis/)
-
----
-
-### Product Analytics – Aha Moment & Retention Analysis
-
-Behavioral product analytics project focused on identifying retention-driving user actions and discovering the product’s Aha Moment using engagement signal evaluation and precision-based retention analysis.
-
-[View Full Project →](projects/Product-Analytics-Aha-Moment-Analysis/)
-
----
-
 ### Customer Lifetime Value (CLV) & RFM Analysis
 
 Customer analytics project focused on customer segmentation, retention strategy, and revenue optimization using RFM analysis and Customer Lifetime Value (CLV) modeling.
@@ -116,11 +100,11 @@ Customer analytics project focused on customer segmentation, retention strategy,
 
 ---
 
-### Customer Satisfaction & Sentiment Analysis
+### Product Analytics – Aha Moment & Retention Analysis
 
-Customer analytics and NLP project focused on measuring customer satisfaction, loyalty potential, and hidden dissatisfaction patterns using CSAT, NPS, CES, and sentiment analysis.
+Behavioral product analytics project focused on identifying retention-driving user actions and discovering the product’s Aha Moment using engagement signal evaluation and precision-based retention analysis.
 
-[View Full Project →](projects/Customer-Satisfaction-and-Sentiment-Analysis/)
+[View Full Project →](projects/Product-Analytics-Aha-Moment-Analysis/)
 
 ---
 
@@ -136,6 +120,6 @@ End-to-end analysis of Ethereum historical price data (2014–2024) to identify 
 
 # CONTACT
 
-- LinkedIn → https://linkedin.com/in/akmalprasetya  
-- Email → akmalzuhdyprasetya31@gmail.com  
-- GitHub → https://github.com/
+- LinkedIn → [https://linkedin.com/in/akmalprasetya]  
+ Email → [akmalzuhdyprasetya31@gmail.com]  
+- GitHub → [https://github.com/trueazp/]
